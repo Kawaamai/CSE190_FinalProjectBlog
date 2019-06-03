@@ -36,3 +36,8 @@ If able to, floating cube "astroids" will be spawned in the play area, that can 
 - Rackets or play area modeled in Blender.
 - Audio through `OpenAl` as background music, or a fanfare when a player scores.
 
+### Progress Screenshots
+
+UDP server and client transmitting sample transform data.
+![UDP Server and Client](docs/CSE190FinalProjectBlog1_udpServerExample.PNG)
+
