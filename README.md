@@ -5,9 +5,12 @@
 1. [Blog 1](#blog-1)
 
 <a name="blog-1"/>
+
+
 ## Blog 1
 
 Project Name: (Astroid) Space Pong (astroid part TBD)
+
 Team Members: Alan Mai
 
 ### Project Description
