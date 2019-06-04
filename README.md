@@ -41,3 +41,6 @@ If able to, floating cube "astroids" will be spawned in the play area, that can 
 UDP server and client transmitting sample transform data.
 ![UDP Server and Client](docs/CSE190FinalProjectBlog1_udpServerExample.PNG)
 
+Example scene with physics and force push on trigger pull.
+![physics example scene force](docs/CSE190FinalProjectBlog1_physicsexample.PNG)
+
