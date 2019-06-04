@@ -17,7 +17,7 @@ Team Members: Alan Mai
 
 2 Players at either end of a tall long box play ping pong with a large, slow moving ball. On each end of the box, there is a grid of hand holds (spheres or cubes) that each player will use to move up and down, side to side on their end of the box. The players can ~~hit the ball with their hands (or some modeled racket)~~ force push the balls with their hands, until it passes the grid and hits a player's wall, resulting in a point for the other player.
 
-If able to, floating cube "astroids" will be spawned in the play area, that can interact with the ball.
+If able to, floating cube "astroids" will be spawned in the play area, that can interact with the ball. Or when the ball touches the side/top of the cube, gravity will change to pull towards the opposite (or random) wall (initially no gravity).
 
 ```
        grid offset from walls to allow space to climb around
