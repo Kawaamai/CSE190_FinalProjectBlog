@@ -57,7 +57,11 @@ No changes to team.
 
 ### Progress
 
-Networking is done. Along with it, server side physics works and all clients are synchronized with the server physics. User can now do a "punch" that works similarly to a gogo hand. Lighting is finished, with a point light attatched to the ball, as well as a directional light that casts a shadow using shadow mapping. The game scene is done, users are now in a octagon, rather than a box.
+Networking is done. Along with it, server side physics works and all clients are synchronized with the server physics. User can now do a "punch" that works similarly to a gogo hand. Lighting is finished, with a point light attatched to the ball, as well as a directional light that casts a shadow using shadow mapping. The game scene is done, users are now in a octagon, rather than a box. Finally, added custom models for the other user's head and models for the hand.
+
+Scrot
+
+![blog 2 scrot](docs/blog2example.PNG)
 
 
 
