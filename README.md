@@ -3,6 +3,7 @@
 ## Table of Contents
 
 1. [Blog 1](#blog-1)
+2. [Blog 2](#blog-2)
 
 <a name="blog-1"/>
 
@@ -46,4 +47,17 @@ UDP server and client transmitting sample transform data.
 
 Example scene with physics and force push on trigger pull.
 ![physics example scene force](docs/CSE190FinalProjectBlog1_physicsexample.PNG)
+
+<a name="blog-2"/>
+
+
+## Blog 2
+
+No changes to team.
+
+### Progress
+
+Networking is done. Along with it, server side physics works and all clients are synchronized with the server physics. User can now do a "punch" that works similarly to a gogo hand. Lighting is finished, with a point light attatched to the ball, as well as a directional light that casts a shadow using shadow mapping. The game scene is done, users are now in a octagon, rather than a box.
+
+
 
